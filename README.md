@@ -1,6 +1,6 @@
 # Hi there 👋
 
-😃 I'm Dung [zʊwŋ͡m˦ˀ˥], a Computer Science undergraduate
+😃 I'm [Dung](https://en.wiktionary.org/wiki/d%C5%A9ng "[zʊwŋ͡m˦ˀ˥]"), a Computer Science undergraduate
 
 💼 I aim to become a Software Engineer
 

@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**dungwinux/dungwinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😃 I'm Dung, a Computer Science undergraduate
 
-Here are some ideas to get you started:
+💼 I aim to become a Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I want to create cross-platform, open-source software
+
+🥼 I’m currently experimenting with [Flutter](https://flutter.dev/) and [Kaitai Struct](http://kaitai.io/)
+
+🛠 I use [VSCode](https://code.visualstudio.com/) and [Notepad](https://devblogs.microsoft.com/oldnewthing/20180521-00/?p=98795)
+
+⚙ I run both Windows and Linux
+
+🎮 I enjoy playing visual novel
+
+💬 Ask me about the book I'm reading
+
+<details>
+  <summary>Numbers</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=algolia">
+</details>

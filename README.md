@@ -15,8 +15,7 @@
 🎮 I enjoy playing visual novel
 
 💬 Ask me about the book I'm reading
-
 <details>
   <summary>Numbers</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=algolia&layout=compact">
 </details>

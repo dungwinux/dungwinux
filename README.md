@@ -12,14 +12,13 @@
 
 ### Setup
 
-📝 [VSCode](https://code.visualstudio.com/), [Kakoune](http://kakoune.org/), [Notepad](https://devblogs.microsoft.com/oldnewthing/20180521-00/?p=98795)
+📝 [VSCode](https://code.visualstudio.com/), [Kakoune](http://kakoune.org/)
 
 💻 Windows and openSUSE
 
-🛠 Experimenting: [Flutter](https://flutter.dev/) and [Kaitai Struct](http://kaitai.io/)
+🛠 Experimenting: [C++ 20](https://isocpp.org/std/status), [Rust](https://www.rust-lang.org/), [Compiler](https://en.wikipedia.org/wiki/Compiler)
 
-
-<details>
+<details styles="display:none;">
   <summary>Numbers</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=algolia&layout=compact">
 </details>

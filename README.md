@@ -16,7 +16,7 @@
 
 💻 Windows and openSUSE
 
-🛠 Experimenting: [C++ 20](https://isocpp.org/std/status), [Rust](https://www.rust-lang.org/), [Compiler](https://en.wikipedia.org/wiki/Compiler)
+🛠 Experimenting: [C++20](https://isocpp.org/), [Rust](https://www.rust-lang.org/), [Compiler](https://en.wikipedia.org/wiki/Compiler)
 
 <details styles="display:none;">
   <summary>Numbers</summary>

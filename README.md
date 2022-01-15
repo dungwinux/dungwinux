@@ -20,5 +20,5 @@
 
 <details styles="display:none;">
   <summary>Numbers</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=algolia&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=algolia&layout=compact&langs_count=6">
 </details>

@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ```cpp
-constexpr auto my_bio = Bio<"dungwinux"> {
+constexpr auto my_bio = Bio {
     .i_am = "Dung",
     .as = "Computer Science undergraduate",
     .aim_to_be = "Software Engineer",

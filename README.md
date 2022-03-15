@@ -1,14 +1,13 @@
 # Hi there 👋
 
-### Bio
-
-😃 I'm [Dung](https://en.wiktionary.org/wiki/d%C5%A9ng "[zʊwŋ͡m˦ˀ˥]"), a Computer Science undergraduate
-
-💼 I aim to become a Software Engineer
-
-👨‍💻 I want to create cross-platform, open-source software
-
-🎮 I enjoy playing visual novel
+```cpp
+constexpr auto my_bio = Bio<"dungwinux"> {
+    .i_am = "Dung",
+    .as = "Computer Science undergraduate",
+    .aim_to_be = "Software Engineer",
+    .love = "Creating cross-platform, open-source software",
+};
+```
 
 ### Setup
 
@@ -16,7 +15,7 @@
 
 💻 Windows and openSUSE
 
-🛠 Experimenting: [C++20](https://isocpp.org/), [Rust](https://www.rust-lang.org/), [Compiler](https://en.wikipedia.org/wiki/Compiler)
+🛠 Experimenting: C++20, [Rust](https://github.com/dungwinux/aoc21), [Blog](https://dungwinux.github.io/-blog)
 
 <details styles="display:none;">
   <summary>Numbers</summary>

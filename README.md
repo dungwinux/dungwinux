@@ -4,21 +4,20 @@
 constexpr auto my_bio = Bio<"dungwinux"> {
     .i_am = "Dung",
     .as = "Computer Science undergraduate",
-    .love = [
+    .love = {
         "Compiler",
         "Reversing",
         "Developing cross-platform software",
-    ],
+    },
 };
 ```
 
-### Setup
+## 🛠 Setup
 
-📝 [VSCode](https://code.visualstudio.com/), [Kakoune](http://kakoune.org/)
+- 📝 VSCode, Kakoune
+- 💻 Windows and openSUSE
 
-💻 Windows and openSUSE
-
-🛠 Experimenting: C++20, [Rust](https://github.com/dungwinux/aoc21), [Blog](https://dungwinux.github.io/-blog)
+## 🥼 Experimenting: C++23, Rust, [Blog](https://dungwinux.github.io/-blog)
 
 <details styles="display:none;">
   <summary>Numbers</summary>

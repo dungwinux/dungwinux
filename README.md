@@ -4,8 +4,11 @@
 constexpr auto my_bio = Bio<"dungwinux"> {
     .i_am = "Dung",
     .as = "Computer Science undergraduate",
-    .aim_to_be = "Software Engineer",
-    .love = "Creating cross-platform, open-source software",
+    .love = [
+        "Compiler",
+        "Reversing",
+        "Developing cross-platform software",
+    ],
 };
 ```
 

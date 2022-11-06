@@ -12,12 +12,12 @@ constexpr auto my_bio = Bio<"dungwinux"> {
 };
 ```
 
-## 🛠 Setup
+## 🛠 Lab setup
 
-- 📝 VSCode, Kakoune
+- 📝 VSCode, Kakoune, Notepad++, HxD
 - 💻 Windows and openSUSE
 
-## 🥼 Experimenting: C++23, Rust, [Blog](https://dungwinux.github.io/-blog)
+## 🥼 Active experiments: C++23, Rust, [Blog](https://dungwinux.github.io/-blog)
 
 <details styles="display:none;">
   <summary>Numbers</summary>

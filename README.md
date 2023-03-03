@@ -14,8 +14,10 @@ auto my_bio = Bio<"dungwinux"> {
 
 ## 🛠 Lab setup
 
-- 📝 VSCode, Kakoune, Notepad++, HxD
-- 💻 Windows and openSUSE
+- 📝 VSCode
+- 🚫🐛 x86dbg
+- ⏮️ Ghidra, Cutter
+- 💻 Windows and Ubuntu
 
 ## 🥼 Active experiments: C++23, Rust, [Blog](https://dungwinux.github.io/-blog)
 

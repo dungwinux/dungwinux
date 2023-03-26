@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ```cpp
-auto my_bio = Bio<"dungwinux"> {
+auto my_bio = Bio {
     .i_am = "Dung",
     .as = "Computer Science undergraduate",
     .love = {
@@ -14,14 +14,16 @@ auto my_bio = Bio<"dungwinux"> {
 
 ## 🛠 Lab setup
 
-- 📝 VSCode
-- 🚫🐛 x86dbg
-- ⏮️ Ghidra, Cutter
+- 📝 VSCode, notepad++
+- 🚫🐛 x64dbg, pwndbg
+- ⏮️ Ghidra, Cutter, Capstone
+- ⏭️ Clang, MSVC, GCC, Keystone
+- 🚧 x86, ARM
 - 💻 Windows and Ubuntu
 
-## 🥼 Active experiments: C++23, Rust, [Blog](https://dungwinux.github.io/-blog)
+## 🥼 Active experiments: Metaprogramming, Computer Architecture, Compiler Explorer, [Blog](https://dungwinux.github.io/-blog)
 
 <details styles="display:none;">
-  <summary>Numbers</summary>
+  <summary>Language usage</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=algolia&layout=compact&langs_count=6">
 </details>

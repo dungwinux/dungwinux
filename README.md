@@ -15,13 +15,13 @@ auto my_bio = Bio {
 ## 🛠 Lab setup
 
 - 📝 VSCode, notepad++
-- 🚫🐛 x64dbg, pwndbg
-- ⏮️ Ghidra, Cutter, Capstone
-- ⏭️ Clang, MSVC, GCC, Keystone
+- 🚫🐛 x64dbg, gdb+pwndbg
+- ⏮️ Ghidra, Cutter
+- ⏭️ LLVM Clang, GCC, VS Build Tools, VS2010
 - 🚧 x86, ARM
 - 💻 Windows and Ubuntu
 
-## 🥼 Active experiments: Metaprogramming, Computer Architecture, Compiler Explorer, [Blog](https://dungwinux.github.io/-blog)
+## 🥼 Active experiments: Computer Architecture, Compiler Explorer, [Blog](https://dungwinux.github.io/-blog)
 
 <details styles="display:none;">
   <summary>Language usage</summary>

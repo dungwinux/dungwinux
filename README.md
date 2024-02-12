@@ -3,7 +3,7 @@
 ```cpp
 auto my_bio = Bio {
     .i_am = "Dung",
-    .as = "Computer Science undergraduate",
+    .as = "Computer Science graduate",
     .love = {
         "Compiler",
         "Reversing",

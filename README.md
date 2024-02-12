@@ -14,8 +14,8 @@ auto my_bio = Bio {
 
 ## 🛠 Lab setup
 
-- 📝 VSCode, notepad++
-- 🚫🐛 x64dbg, gdb+pwndbg
+- 📝 VSCode, LVim, notepad++
+- 🚫🐛 WinDbg, gdb+pwndbg, x64dbg
 - ⏮️ Ghidra, Cutter
 - ⏭️ LLVM Clang, GCC, VS Build Tools, VS2010
 - 🚧 x86, ARM

@@ -4,9 +4,13 @@
 auto my_bio = Bio {
     .i_am = "Dung",
     .as = "Computer Science graduate",
+    .concentrate = {
+        "Systems",
+        "Security",
+    },
     .love = {
-        "Compiler",
         "Reversing",
+        "Compiler",
         "Developing cross-platform software",
     },
 };
@@ -16,9 +20,9 @@ auto my_bio = Bio {
 
 - 📝 VSCode, LVim, notepad++
 - 🚫🐛 WinDbg, gdb+pwndbg, x64dbg
-- ⏮️ Ghidra, Cutter
+- ⏮️ Ghidra, Cutter, ILSpy
 - ⏭️ LLVM Clang, GCC, VS Build Tools, VS2010
-- 🚧 x86, ARM
+- 🚧 x86, ARM64, ARM
 - 💻 Windows and Ubuntu
 
 ## 🥼 Active experiments: Computer Architecture, Compiler Explorer, [Blog](https://dungwinux.github.io/-blog)

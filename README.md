@@ -29,5 +29,5 @@ auto my_bio = Bio {
 
 <details styles="display:none;">
   <summary>Language usage</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=algolia&layout=compact&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=transparent&layout=compact&langs_count=8">
 </details>

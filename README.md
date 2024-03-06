@@ -9,25 +9,24 @@ auto my_bio = Bio {
         "Security",
     },
     .love = {
+        "Debugging",
         "Reversing",
         "Compiler",
-        "Developing cross-platform software",
     },
 };
 ```
 
-## 🛠 Lab setup
+## 🛠 Lab
 
-- 📝 VSCode, LVim, notepad++
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=transparent&layout=compact&langs_count=8">
+
 - 🚫🐛 WinDbg, gdb+pwndbg, x64dbg
-- ⏮️ Ghidra, Cutter, ILSpy
+- 📝 VSCode, LunarVim, notepad++
+- ⏮️ Cutter, Ghidra, ILSpy
 - ⏭️ LLVM Clang, GCC, VS Build Tools, VS2010
-- 🚧 x86, ARM64, ARM
-- 💻 Windows and Ubuntu
+- ⚛️ x86, ARM
+- 💻 Windows 🪟 and Ubuntu
 
-## 🥼 Active experiments: Computer Architecture, Compiler Explorer, [Blog](https://dungwinux.github.io/-blog)
 
-<details styles="display:none;">
-  <summary>Language usage</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=transparent&layout=compact&langs_count=8">
-</details>
+## 🥼 Active experiments: Computer Architecture, [Blog](https://dungwinux.github.io/-blog)
+

@@ -1,32 +1,27 @@
-# Hi there 👋
+# Welcome
 
 ```cpp
 auto my_bio = Bio {
     .i_am = "Dung",
-    .as = "Computer Science graduate",
-    .concentrate = {
-        "Systems",
-        "Security",
-    },
+    .as = "MS in Computer Science",
     .love = {
-        "Debugging",
-        "Reversing",
-        "Compiler",
-    },
+        Tag::Debugging,
+        Tag::Reversing,
+        Tag::Cybersecurity,
+        Tag::Compiler,
+    }
 };
 ```
 
-## 🛠 Lab
+## 🛠 Lab settings (ricing)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=transparent&layout=compact&langs_count=8">
 
-- 🚫🐛 WinDbg, gdb+pwndbg, x64dbg
-- 📝 VSCode, LunarVim, notepad++
-- ⏮️ Cutter, Ghidra, ILSpy
-- ⏭️ LLVM Clang, GCC, VS Build Tools, VS2010
-- ⚛️ x86, ARM
-- 💻 Windows 🪟 and Ubuntu
+- 🚫🐛: WinDbg, gdb, pwndbg, x64dbg
+- C and C++: LLVM, GCC, VS2022, VS2019, VS2010
+- Rev: Cutter, Ghidra, ILSpy, JADX
+- Text editor: VSCode, LunarVim, notepad++
+- Target arch: x86, arm32, aarch64
+- OS: Windows 🪟 and Ubuntu
 
-
-## 🥼 Active experiments: Computer Architecture, [Blog](https://dungwinux.github.io/-blog)
-
+## 🥼 Active experiments: CTF, Computer Architecture, [Blog](https://dungwinux.github.io/-blog)

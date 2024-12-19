@@ -13,7 +13,7 @@ auto my_bio = Bio {
 };
 ```
 
-## 🛠 Lab settings (ricing)
+## 🛠 Lab settings
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungwinux&theme=transparent&layout=compact&langs_count=8">
 

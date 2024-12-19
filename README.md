@@ -19,9 +19,9 @@ auto my_bio = Bio {
 
 - 🚫🐛: WinDbg, gdb, pwndbg, x64dbg
 - C and C++: LLVM, GCC, VS2022, VS2019, VS2010
-- Rev: Cutter, Ghidra, ILSpy, JADX
+- Reversing: :brain:, Cutter, Ghidra, ILSpy, JADX
 - Text editor: VSCode, LunarVim, notepad++
-- Target arch: x86, arm32, aarch64
+- Target arch: x86 (IA-32), x86-64 (AMD64), arm32, aarch64
 - OS: Windows 🪟 and Ubuntu
 
 ## 🥼 Active experiments: CTF, Computer Architecture, [Blog](https://dungwinux.github.io/-blog)
